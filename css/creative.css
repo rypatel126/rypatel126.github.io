@@ -9731,3 +9731,8 @@ header.masthead h1 {
 #portfolio .container-fluid .portfolio-box:hover .portfolio-box-caption {
   opacity: 1;
 }
+
+.devicon {
+  max-width: 10em;
+  max-height: 10em;
+}

@@ -9733,6 +9733,5 @@ header.masthead h1 {
 }
 
 .devicon {
-  max-width: 10em;
-  max-height: 10em;
+  font-size: 10ex;
 }
